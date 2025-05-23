@@ -1,0 +1,101 @@
+[Genre: Cantopop Ballad, Emotional Pop, Orchestral Pop (Cantonese), Sophisticated Pop, Sentimental Ballad, Healing Ballad (elements)]
+[Mood: Melancholy, Heartbroken, Poignant, Reflective, Introspective, Bittersweet, Deeply Emotional, Resigned Sadness turning to Cathartic Release, Painful Beauty, Hopeful (emerging), Healing Journey]
+[Lead Vocals: Joey Yung Style Vocals (Cantonese), Powerful Female Vocals with Exceptional Technique & Control, Wide Dynamic Range (tender whispers to soaring belts), Clear & Bright Timbre (with emotional depth and warmth), Highly Emotive Delivery, Smooth & Flowing Melodic Phrasing, Impeccable Cantonese Articulation, Vocal Storytelling, Soulful Inflections (Cantopop style)]
+[Instrumentation: Grand Piano (leading with emotive chord voicings and melodic lines), Lush String Orchestra (providing harmonic depth and emotional swells), Acoustic Guitar (subtle textural layers), Pop Drum Kit & Electric Bass (tasteful, building foundation, clean sound). Clean, modern, spacious production.]
+[Tempo: Slow to Mid-tempo Ballad (approx 58-72 BPM), with natural rubato in vocal phrasing]
+[Style Prompt: Create a sophisticated and deeply emotional Cantopop ballad in Joey Yung's signature style, showcasing exceptional vocal prowess and smooth melodic sensibilities. The song should feature powerful, emotive female vocals with a wide dynamic range and profound emotional depth. Instrumentation is led by piano and a lush string orchestra, with a tasteful pop rhythm section providing foundation. The song's harmonic language should evolve: begin with melancholic minor and suspended chords (e.g., Am, Dm7, Gsus4) reflecting pain, gradually incorporating more major, Maj7, and add9 chords in later sections to suggest a journey towards healing and bittersweet acceptance. Production must be clean, modern, and spacious, highlighting the masterful vocal performance as it navigates complex emotions. The focus is on a heartfelt vocal journey supported by evocative harmony.]
+
+[Title: 百子櫃]
+
+[Verse 1]
+(Music begins with sparse, melancholic piano chords – e.g., Am7, Dm7, Gsus4 resolving to G. Joey's voice enters softly, conveying restrained bitterness and sorrow. Strings enter with sustained, somber pads – Cmaj7, Fmaj7, adding warmth yet retaining melancholy.)
+當愛像「蓮子心」苦澀入喉
+卻似「當歸」不願停留
+心裡深處堆滿過去溫柔
+每一格沾滿記憶塵垢
+
+(Piano voicings perhaps add a minor 9th for poignancy. Voice with growing intensity.)
+當回憶寫著白竹的愁
+誓言是帶了鐵秀的針究
+守著藥櫃 苦苦等候
+
+[Pre-Chorus]
+(Harmonic tension increases slightly – e.g., using diminished passing chords or a pedal point under shifting minor chords. Vocals express brewing pain.)
+人心的火在燒
+黃連的苦水仍在煎熬
+裂開的傷口一道又一道
+醫不好你留下的病灶
+
+[Chorus 1]
+(Fuller instrumentation. Chord progression becomes more defined and powerful, still rooted in minor or modal harmony – e.g., Am - G/B - C - F. Strings soar. Vocals are emotive, showcasing range.)
+為什麼相思要配一碗「川弓」
+癡心人苦澀的心被挖空
+在百子櫃之中 每一格是裂縫
+我像離開身體的「鹿容」
+
+為什麼心死要服用斷腸紅
+癡情人沉醉的情太沉重
+在百子櫃之中 每一格是冷宮
+文武火也煮不暖這種凍
+
+[Verse 2]
+(Music softens, returning to a more intimate piano and string texture. Chords reflect quiet desperation – e.g., Em7, A7sus4-A7, Dm. Vocals are narrative, tinged with sadness.)
+當愛如「熟地」讓心底黑透
+卻像「八角」不願放手
+藥碗浸透寫滿虛構永久
+每一滴藥湯不再擁有
+
+當時間都釀出「服零」的酒
+承諾是利刃狠狠地解剖
+守著藥櫃 不甘放手
+
+[Pre-Chorus 2]
+(Similar harmonic build and emotional intensity as Pre-Chorus 1.)
+滾燙的益母草
+破碎愛情如去核紅棗
+喝過的苦藥一包又一包
+醫不好你離去的感冒
+
+[Chorus 2]
+(Chorus returns with sustained emotional power. Chord voicings might be richer, strings more active.)
+為什麼相思要配一碗「川弓」
+癡心人苦澀的心被挖空
+在百子櫃之中 每一格是裂縫
+我像離開身體的「鹿容」
+
+為什麼心死要服用斷腸紅
+癡情人沉醉的情太沉重
+在百子櫃之中 每一格是冷宮
+文武火也煮不暖這種凍
+
+[Bridge]
+(Music becomes introspective. Piano plays thoughtful, perhaps slightly dissonant chords resolving to softer ones – e.g., F#m7(b5) - B7(b9) - Em. Cello offers a poignant counter-melody. Vocals are reflective, building towards the Hook.)
+藥渣怎熬出新的溫柔
+愛意褪去 早應放手
+起死回生可會更加難受
+
+[Hook]
+(Harmonic shift towards more open or suspended sounds resolving upwards – e.g., Gsus4 - G - Cadd9. Music swells with strings. Vocals deliver with stark clarity and burgeoning strength.)
+藥效才剛抵禦寒冬
+細數百子櫃 遺留千百種痛
+已看不清 過往種種
+
+[Final Chorus]
+(Music reaches its most cathartic point. Key might subtly lift or harmonies brighten with more Major chords and extensions – Cmaj7, Fmaj7, G add9. Orchestra is full. Vocals are at their peak, expressing a bittersweet acceptance and emerging strength – a "healing" quality.)
+為什麼回憶會比「砒霜」更濃
+苦情人的眼淚早已流空
+在百子櫃之中 每一格是牢籠
+困著那思念在洶湧躁動
+
+為什麼光陰會讓心痛更痛
+我仍在貪戀那虛構美夢
+在百子櫃之中 每一格在失控
+(Vocals hold a powerful, sustained note, then soften with a sense of hopeful release.)
+無法接受 愛不在 櫃中
+
+[Outro]
+(Music resolves peacefully. Piano plays gentle, arpeggiated major or Lydian chords – e.g., Cmaj7#11, Fmaj7. Strings hold warm, sustained notes. Vocals are soft, conveying a fragile but determined peace. The "healing" element is prominent here.)
+煎好的藥 若你陪我入喉
+這腐朽也許醫得好
+(A final, hopeful piano chord – C add9 or Gmaj7 – fades slowly with strings.)
+卻是你陪我入土

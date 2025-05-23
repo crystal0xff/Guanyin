@@ -1,0 +1,98 @@
+[Genre: Contemporary R&B, Slow Jam, Soulful Pop Ballad, Atmospheric R&B, Oceanic Ballad, Ambient Pop]
+[Mood: Sad, Lovelorn, Melancholy, Reflective, Introspective, Wistful, Hopeful (towards the end), Serene (despite sadness), Vast, Yearning]
+[Lead Vocals: Soft Female Vocals, Emotive Singing, Smooth R&B Vocals, Intimate Delivery, Breathy Vocals, Gentle Dynamics, Airy Vocals]
+[Instrumentation: Piano-led (prominent, can have watery reverb or gentle delay), Integrated Sea Wave Sounds (atmospheric, rhythmic, part of the texture), Atmospheric Synth Pads (shimmering, watery, vast, like ocean depths), Subtle Slow R&B Beat (gentle, mimicking ebb and flow), Soft Bassline, Clean Production, Possibly shimmering electric piano or subtle clean guitar textures for watery feel]
+[Tempo: Very Slow, Slow Ballad tempo (approx 50-60 BPM)]
+[Style Prompt: A very slow, soft, and sad R&B ballad in Cantonese, deeply infused with the atmosphere of the sea. Led by an emotive piano melody, perhaps with a watery reverb effect. Features a smooth, intimate female vocal conveying lovelorn melancholy and eventual, gentle hope. Integrate sea wave sounds naturally into the rhythm and texture of the music, creating a sense of vastness, ebb and flow, and tranquil solitude. Use shimmering, watery atmospheric pads to enhance the oceanic feel. The overall mood is reflective, wistful, and serene despite the underlying sadness. Clean, polished production with a focus on emotional depth.]
+
+[Verse 1]
+(Music starts very slow, soft piano with watery reverb, distant sea wave sounds begin to establish atmosphere)
+(Vocals soft, almost a whisper, melancholic)
+夜風孤單巨浪吻海灘
+此刻世間
+靜似深海一般裴伴
+
+[Pre-Chorus 1]
+(Subtle R&B beat might enter very gently, piano chords become a bit fuller)
+無邊大海 愛戀卻無奈
+彼此緘默
+(Voice with a sigh)
+留下失敗嘅感慨
+
+[Chorus 1]
+(Music swells slightly, sea wave sounds might become more prominent, layered with pads. Vocals emotive but still soft)
+海 遼闊到 觸摸不到邊界
+海 深邃到 如山崩跟破裂
+直到你我惜別
+才清楚看見 已停歇
+
+往昔沉落海底
+悲傷無蹤無跡
+再也看不見日出
+漩渦中狠狠捲走了憶記
+
+月下泛起海中倒影
+愛情嘅故事按下了暫停
+海浪拍岸製造幻聽
+海裡邊倒映天上繁星
+(Voice trails off, wistful)
+我厭倦過份清醒
+
+[Verse 2]
+(Music softens again, focus on piano, voice, and gentle wave sounds)
+潮汐聲迴盪 心逐浪飄遠
+回憶畫面
+(Voice slightly hazy, dream-like)
+模糊似夢境般散亂
+
+[Pre-Chorus 2]
+(Beat might become a little more defined but still very slow)
+潮水漲又落 帶走了寄託
+剩低我一個
+描畫悲傷輪廓
+
+[Chorus 1a Repeat]
+(Music similar to the first part of Chorus 1, emphasizing the vastness)
+海 遼闊到 觸摸不到邊界
+海 深邃到 如山崩跟破裂
+直到你我惜別
+才清楚看見 已停歇
+
+[Chorus 2]
+(Music takes on a slightly different melancholic shade, perhaps different chord voicings or pad textures. Sea sounds continue)
+回憶如細沙吹去
+猶如聽哀悼嘅樂曲
+不再尋覓遠去日期
+海底中漸漸旋轉再漂移
+
+風中傳來遙遠歎息
+往日誓言早已變瞬息
+黑暗之中尋找躲避
+海中深埋藏心意
+(Voice with deep longing)
+我渴望就此沉溺
+
+[Bridge]
+(Music becomes very atmospheric, perhaps piano only with prominent sea wave sounds and shimmering pads. Vocals are intimate, hopeful yet fragile)
+在深海點亮一盞孤燈星火
+照亮心底未曾講嘅承諾
+(Gentle vocal run)
+穿越浪濤 尋覓愛嘅輪廓
+
+[Chorus 3]
+(Music becomes a bit brighter, more hopeful, though still slow and gentle. Piano melody more uplifting. Wave sounds perhaps calmer, like lapping waves)
+遠方燈塔亮起
+照亮愛戀軌跡
+跟隨星宿指引
+浪花中輕輕寄託這情意
+
+[Outro]
+(Music fades slowly, piano plays a gentle, hopeful melody. Sea wave sounds become very soft. Vocals repeat the hopeful wish, almost a whisper)
+星空下誠心許個願
+你我嘅故事會重新燃點
+海浪似撥動愛戀琴弦
+天空繁星終於重現
+(Whispered, fading)
+我期待這天
+(Sea wave sounds and piano fade to silence)
+
